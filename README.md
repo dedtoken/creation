@@ -17,5 +17,5 @@ without simplicity.
 We don't offer services that are complicated and difficult to manage. We
 are going to offer a simple showcase where everybody can exchange
 (selling trough DDT or bartering) goods and services in short times with
-direct contact with the buyer. We also will make a cashback system wich
+direct contact with the buyer. We also will make a cashback system that
 will save a percentage of DDT for those who buy.
